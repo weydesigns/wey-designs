@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.LogoBlock:hover {
+    cursor: pointer;
+    border-bottom: 1px solid #e85d75;
+}
+
+#banner-picture {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#banner-picture:hover {
+    box-shadow: none;
+    cursor: pointer;
+    border: 3px solid #e85d75;
+}
+
+#header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.text {
+    font-size: 1rem;
+    font-family: 'Poppins';
+}
+
+.oneRemPaddingSpacer {
+    padding: 0.5rem;
+}
+.point5RemPaddingSpacer {
+    padding: 0.25rem;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+#resume {
+    font-size: 0.5rem;
+}
+
+.socials:hover {
+    cursor: pointer;
+
+}
+
+.aboutBody {
+    background-image: url('wave.svg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 70rem;
+}
