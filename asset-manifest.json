@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.45e89998.css",
-    "main.js": "/static/js/main.f1dfb76a.js",
-    "static/js/787.3f5222ea.chunk.js": "/static/js/787.3f5222ea.chunk.js",
-    "static/media/real-estate-banner.png": "/static/media/real-estate-banner.29ba70351608d288da1a.png",
-    "static/media/nok-out-banner.png": "/static/media/nok-out-banner.e917df637fb285445b99.png",
-    "static/media/landing-page-banner.png": "/static/media/landing-page-banner.4f61acd754e5ad44b889.png",
-    "static/media/bridgeBannerPage.png": "/static/media/bridgeBannerPage.5f3c0fe0455e4be7fcd2.png",
-    "static/media/w-bank-banner.png": "/static/media/w-bank-banner.ae042d08e4d6fed73e82.png",
-    "static/media/weyinmi.jpeg": "/static/media/weyinmi.10da130242e81b05005a.jpeg",
-    "static/media/header.png": "/static/media/header.72816954a394eecc89fe.png",
-    "static/media/wey-logo.png": "/static/media/wey-logo.8c5a0c73744e3cafcc76.png",
-    "index.html": "/index.html",
-    "static/media/wave.svg": "/static/media/wave.09ac3dc39a462de943cb.svg",
-    "main.45e89998.css.map": "/static/css/main.45e89998.css.map",
-    "main.f1dfb76a.js.map": "/static/js/main.f1dfb76a.js.map",
-    "787.3f5222ea.chunk.js.map": "/static/js/787.3f5222ea.chunk.js.map"
+    "main.css": "/wey-designs/static/css/main.16ecbf50.css",
+    "main.js": "/wey-designs/static/js/main.5e05aa1d.js",
+    "static/js/787.3f5222ea.chunk.js": "/wey-designs/static/js/787.3f5222ea.chunk.js",
+    "static/media/real-estate-banner.png": "/wey-designs/static/media/real-estate-banner.29ba70351608d288da1a.png",
+    "static/media/nok-out-banner.png": "/wey-designs/static/media/nok-out-banner.e917df637fb285445b99.png",
+    "static/media/landing-page-banner.png": "/wey-designs/static/media/landing-page-banner.4f61acd754e5ad44b889.png",
+    "static/media/bridgeBannerPage.png": "/wey-designs/static/media/bridgeBannerPage.5f3c0fe0455e4be7fcd2.png",
+    "static/media/w-bank-banner.png": "/wey-designs/static/media/w-bank-banner.ae042d08e4d6fed73e82.png",
+    "static/media/weyinmi.jpeg": "/wey-designs/static/media/weyinmi.10da130242e81b05005a.jpeg",
+    "static/media/header.png": "/wey-designs/static/media/header.72816954a394eecc89fe.png",
+    "static/media/wey-logo.png": "/wey-designs/static/media/wey-logo.8c5a0c73744e3cafcc76.png",
+    "index.html": "/wey-designs/index.html",
+    "static/media/wave.svg": "/wey-designs/static/media/wave.09ac3dc39a462de943cb.svg",
+    "main.16ecbf50.css.map": "/wey-designs/static/css/main.16ecbf50.css.map",
+    "main.5e05aa1d.js.map": "/wey-designs/static/js/main.5e05aa1d.js.map",
+    "787.3f5222ea.chunk.js.map": "/wey-designs/static/js/787.3f5222ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e89998.css",
-    "static/js/main.f1dfb76a.js"
+    "static/css/main.16ecbf50.css",
+    "static/js/main.5e05aa1d.js"
   ]
 }
