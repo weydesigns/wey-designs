@@ -10,6 +10,7 @@ import { Banner } from '../components/BannerComponent';
 import realEstateBanner from '../assets/real-estate-banner.png';
 import landingPageBanner from '../assets/landing-page-banner.png';
 import wBankBanner from '../assets/w-bank-banner.png';
+import lagosBlueBanner from '../assets/lagos-blue-banner.png';
 import '../App.css';
 import { useEffect, useRef } from 'react';
 
@@ -98,6 +99,13 @@ export const HomeScreen = () => {
                     }}
                     id='block-3'
                 >
+                    <Banner
+                        image={lagosBlueBanner}
+                        link={
+                            'https://www.behance.net/gallery/160719335/Ticket-Booking-App-For-Lagos-Blue-Line-Project'
+                        }
+                    />
+                    <div style={{ padding: height * 0.03 }} />
                     <Banner
                         image={nokOutBanner}
                         link={'https://uxfol.io/p/aa99b90b/03cc7988'}
