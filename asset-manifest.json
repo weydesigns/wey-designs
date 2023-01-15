@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wey-designs/static/css/main.40d7d932.css",
-    "main.js": "/wey-designs/static/js/main.dfee1ad0.js",
+    "main.js": "/wey-designs/static/js/main.c6dc815e.js",
     "static/js/787.3f5222ea.chunk.js": "/wey-designs/static/js/787.3f5222ea.chunk.js",
     "static/media/real-estate-banner.png": "/wey-designs/static/media/real-estate-banner.29ba70351608d288da1a.png",
     "static/media/nok-out-banner.png": "/wey-designs/static/media/nok-out-banner.e917df637fb285445b99.png",
-    "static/media/lagos-blue-banner.png": "/wey-designs/static/media/lagos-blue-banner.3c431ea8649c2ee7aeb8.png",
     "static/media/landing-page-banner.png": "/wey-designs/static/media/landing-page-banner.4f61acd754e5ad44b889.png",
     "static/media/bridgeBannerPage.png": "/wey-designs/static/media/bridgeBannerPage.5f3c0fe0455e4be7fcd2.png",
+    "static/media/lagos-blue-banner.png": "/wey-designs/static/media/lagos-blue-banner.0acf7fb27375f9f1e253.png",
     "static/media/w-bank-banner.png": "/wey-designs/static/media/w-bank-banner.ae042d08e4d6fed73e82.png",
     "static/media/weyinmi.jpeg": "/wey-designs/static/media/weyinmi.10da130242e81b05005a.jpeg",
     "static/media/header.png": "/wey-designs/static/media/header.72816954a394eecc89fe.png",
@@ -15,11 +15,11 @@
     "index.html": "/wey-designs/index.html",
     "static/media/wave.svg": "/wey-designs/static/media/wave.09ac3dc39a462de943cb.svg",
     "main.40d7d932.css.map": "/wey-designs/static/css/main.40d7d932.css.map",
-    "main.dfee1ad0.js.map": "/wey-designs/static/js/main.dfee1ad0.js.map",
+    "main.c6dc815e.js.map": "/wey-designs/static/js/main.c6dc815e.js.map",
     "787.3f5222ea.chunk.js.map": "/wey-designs/static/js/787.3f5222ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40d7d932.css",
-    "static/js/main.dfee1ad0.js"
+    "static/js/main.c6dc815e.js"
   ]
 }
