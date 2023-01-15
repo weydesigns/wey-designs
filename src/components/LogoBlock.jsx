@@ -36,7 +36,7 @@ export const LogoBlock = ({ setLogoBlockHeight, logoRef }) => {
                         style={{
                             marginLeft: width * 0.02,
                             borderBottom:
-                                useLocation()?.pathname == '/wey-designs/'
+                                useLocation()?.pathname == '/'
                                     ? '1px solid #e85d75'
                                     : null,
                         }}
@@ -53,7 +53,7 @@ export const LogoBlock = ({ setLogoBlockHeight, logoRef }) => {
                         style={{
                             marginLeft: width * 0.02,
                             borderBottom:
-                                useLocation()?.pathname == '/wey-designs/about'
+                                useLocation()?.pathname == '/about'
                                     ? '1px solid #e85d75'
                                     : null,
                         }}
