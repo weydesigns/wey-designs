@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wey-designs/static/css/main.40d7d932.css",
-    "main.js": "/wey-designs/static/js/main.4258b466.js",
+    "main.js": "/wey-designs/static/js/main.35f75547.js",
     "static/js/787.3f5222ea.chunk.js": "/wey-designs/static/js/787.3f5222ea.chunk.js",
     "static/media/real-estate-banner.png": "/wey-designs/static/media/real-estate-banner.29ba70351608d288da1a.png",
     "static/media/nok-out-banner.png": "/wey-designs/static/media/nok-out-banner.e917df637fb285445b99.png",
@@ -15,11 +15,11 @@
     "index.html": "/wey-designs/index.html",
     "static/media/wave.svg": "/wey-designs/static/media/wave.09ac3dc39a462de943cb.svg",
     "main.40d7d932.css.map": "/wey-designs/static/css/main.40d7d932.css.map",
-    "main.4258b466.js.map": "/wey-designs/static/js/main.4258b466.js.map",
+    "main.35f75547.js.map": "/wey-designs/static/js/main.35f75547.js.map",
     "787.3f5222ea.chunk.js.map": "/wey-designs/static/js/787.3f5222ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40d7d932.css",
-    "static/js/main.4258b466.js"
+    "static/js/main.35f75547.js"
   ]
 }
